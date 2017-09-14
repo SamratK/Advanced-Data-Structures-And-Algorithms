@@ -1,2 +1,4 @@
 # AdvancedDataStructures
-Advanced data structures.
+Advanced data structures and algorithms.
+SelfAdjustingTernarySearchTree
+
